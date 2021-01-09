@@ -27,4 +27,8 @@ p {
 
 p.copyright {
     text-align: right;
+    font-size: 14px;
+}
+footer {
+    padding-top: 20px;
 }
