@@ -1,7 +1,7 @@
 html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
-    background-color: black;
+    background-image: linear-gradient(to bottom right, black, rgb(19, 19, 19));
     text-align: center;
     align-items: center;
 }
